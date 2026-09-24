@@ -1,0 +1,17 @@
+2026-09-24 00:58:55,869 | INFO    | capstone | Found 5 document(s) using provider 'openai'
+2026-09-24 00:58:56,743 | INFO    | workflow | [complaint_001.txt] Step 1: structured extraction
+2026-09-24 00:58:56,744 | INFO    | workflow | [complaint_002.txt] Step 1: structured extraction
+2026-09-24 00:58:56,744 | INFO    | workflow | [complaint_003.txt] Step 1: structured extraction
+2026-09-24 00:58:59,253 | INFO    | workflow | [complaint_002.txt] Step 2: generating email and case summary in parallel
+2026-09-24 00:58:59,505 | INFO    | workflow | [complaint_003.txt] Step 2: generating email and case summary in parallel
+2026-09-24 00:58:59,738 | INFO    | workflow | [complaint_001.txt] Step 2: generating email and case summary in parallel
+2026-09-24 00:59:01,908 | INFO    | capstone | [complaint_001.txt] Completed
+2026-09-24 00:59:01,941 | INFO    | capstone | [complaint_003.txt] Completed
+2026-09-24 00:59:01,942 | INFO    | workflow | [complaint_005.txt] Step 1: structured extraction
+2026-09-24 00:59:02,006 | INFO    | workflow | [complaint_004.docx] Step 1: structured extraction
+2026-09-24 00:59:02,022 | INFO    | capstone | [complaint_002.txt] Completed
+2026-09-24 00:59:03,971 | INFO    | workflow | [complaint_005.txt] Step 2: generating email and case summary in parallel
+2026-09-24 00:59:04,045 | INFO    | workflow | [complaint_004.docx] Step 2: generating email and case summary in parallel
+2026-09-24 00:59:06,296 | INFO    | capstone | [complaint_004.docx] Completed
+2026-09-24 00:59:06,513 | INFO    | capstone | [complaint_005.txt] Completed
+2026-09-24 00:59:06,515 | INFO    | capstone | Done: 5 succeeded, 0 failed in 9.8s. Report: C:\Users\meghajos\OneDrive - Intel Corporation\Documents\Module0_course\Capstone_Project\output\final_report.csv

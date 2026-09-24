@@ -1,0 +1,7 @@
+langchain-core>=1.2.7
+langchain-openai>=1.0.0
+langchain-google-genai>=2.1.12
+pydantic>=2.11
+python-dotenv>=1.0
+pypdf>=5.0
+python-docx>=1.1

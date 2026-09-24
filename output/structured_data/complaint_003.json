@@ -1,0 +1,13 @@
+{
+  "customer_name": "Aisha Khan",
+  "email": "aisha.khan@example.org",
+  "phone_number": "No",
+  "product_or_service": "Home delivery - Order #OD-55719 (Office chair, Model ErgoFlex)",
+  "complaint_category": "Delivery",
+  "issue_description": "Order scheduled for delivery on 04 Aug 2026 has not arrived; tracking shows 'Out for delivery' for five days.",
+  "resolution_provided": "None yet. Logistics team has raised a trace request with the courier partner.",
+  "is_complaint": "Yes",
+  "escalation_required": "No",
+  "supporting_document_available": "No",
+  "case_status": "In Progress"
+}

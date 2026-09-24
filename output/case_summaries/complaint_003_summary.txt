@@ -1,0 +1,16 @@
+INTERNAL CASE SUMMARY - complaint_003.txt
+==================================================
+Case Overview:
+Aisha Khan has reported a delivery issue with her order for an office chair, which was scheduled for delivery on 04 Aug 2026 but has not arrived.
+
+Key Issue:
+The order has been marked 'Out for delivery' for five days without any updates from the courier.
+
+Action Taken:
+The logistics team has raised a trace request with the courier partner.
+
+Current Status:
+The case is currently in progress with no resolution provided yet.
+
+Recommended Next Action:
+Follow up with the logistics team for updates on the trace request and communicate any findings to the customer.

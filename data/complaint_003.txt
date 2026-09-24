@@ -1,0 +1,25 @@
+Customer Feedback / Complaint Record
+Record No: CC-10245
+Date: 2026-08-09
+
+Name: Aisha Khan
+Email: aisha.khan@example.org
+Phone: not provided
+
+Product/Service: Home delivery - Order #OD-55719 (Office chair, Model ErgoFlex)
+
+Description:
+My order was scheduled for delivery on 04 Aug 2026 but has not arrived.
+The tracking page shows "Out for delivery" for five days. I have called the
+courier twice without any update.
+
+Resolution Provided:
+None yet. Logistics team has raised a trace request with the courier partner.
+
+Escalation:
+Not escalated at this time.
+
+Supporting Documents:
+None attached.
+
+Status: In Progress

@@ -1,0 +1,13 @@
+{
+  "customer_name": "Elena Rossi",
+  "email": "elena.rossi@example.it",
+  "phone_number": "+39 06 1234 5678",
+  "product_or_service": "FitLife Gym Membership - Annual Plan",
+  "complaint_category": "Other",
+  "issue_description": "Customer inquires about the process and fees to pause annual membership for two months while traveling abroad.",
+  "resolution_provided": "Front desk informed the customer that membership can be paused for up to 3 months for a fee of EUR 10 per month. Pause form emailed to customer.",
+  "is_complaint": "No",
+  "escalation_required": "No",
+  "supporting_document_available": "No",
+  "case_status": "Closed"
+}

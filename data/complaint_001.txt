@@ -1,0 +1,31 @@
+Customer Complaint Form
+Date Received: 2026-08-02
+Ticket ID: CC-10231
+
+Customer Name: Priya Sharma
+Email: priya.sharma@example.com
+Phone: +91-98450-11223
+
+Product/Service: SmartHome Wi-Fi Router X200
+
+Complaint Description:
+I purchased the X200 router on 15 July 2026. Since last week the router
+disconnects every 20-30 minutes and I have to restart it manually. I work
+from home and this is causing serious disruption to my meetings.
+
+Issue Details:
+- Firmware version 2.1.4
+- Tried factory reset twice, issue persists
+- Status LED blinks orange before disconnect
+
+Resolution Provided:
+Support agent Rahul guided the customer to update firmware to 2.1.6 on
+03 Aug 2026. The customer confirmed the router has been stable for 48 hours.
+
+Escalation Information:
+No escalation required.
+
+Supporting Information:
+Purchase invoice (INV-88213) attached.
+
+Case Status: Resolved

@@ -1,0 +1,16 @@
+INTERNAL CASE SUMMARY - complaint_002.txt
+==================================================
+Case Overview:
+Michael Turner reported being charged twice for his StreamPlus Premium subscription for August. The case has been escalated due to the nature of the complaint and the customer's history.
+
+Key Issue:
+Customer was charged twice for a single subscription, leading to a request for a refund.
+
+Action Taken:
+The billing team verified the duplicate charge, and the case was escalated to the Billing Supervisor on 2026-08-07. A refund has not yet been processed.
+
+Current Status:
+The case is currently escalated and awaiting further action from the billing team.
+
+Recommended Next Action:
+Follow up with the Billing Supervisor to expedite the refund process and ensure timely communication with the customer.

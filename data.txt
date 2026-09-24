@@ -1,0 +1,147 @@
+### complaint_001.txt
+Customer Complaint Form
+Date Received: 2026-08-02
+Ticket ID: CC-10231
+
+Customer Name: Priya Sharma
+Email: priya.sharma@example.com
+Phone: +91-98450-11223
+
+Product/Service: SmartHome Wi-Fi Router X200
+
+Complaint Description:
+I purchased the X200 router on 15 July 2026. Since last week the router
+disconnects every 20-30 minutes and I have to restart it manually. I work
+from home and this is causing serious disruption to my meetings.
+
+Issue Details:
+- Firmware version 2.1.4
+- Tried factory reset twice, issue persists
+- Status LED blinks orange before disconnect
+
+Resolution Provided:
+Support agent Rahul guided the customer to update firmware to 2.1.6 on
+03 Aug 2026. The customer confirmed the router has been stable for 48 hours.
+
+Escalation Information:
+No escalation required.
+
+Supporting Information:
+Purchase invoice (INV-88213) attached.
+
+Case Status: Resolved
+
+=====
+### complaint_002.txt
+Subject: Charged twice for monthly subscription
+
+From: Michael Turner <m.turner@example.net>
+Phone: (415) 555-0142
+Date: 2026-08-05
+
+Hello Support,
+
+I was charged twice for my StreamPlus Premium subscription for August
+(USD 14.99 x 2) on my credit card. I only have one account. I contacted
+chat support on 06 Aug but was told a billing specialist would call me back,
+and no one has called yet. This is the second time this has happened this year.
+
+I have attached a screenshot of my bank statement showing both charges.
+
+I expect a refund of the duplicate charge immediately.
+
+Regards,
+Michael Turner
+
+-- Internal Notes --
+Billing team verified the duplicate charge. Refund not yet processed.
+Customer is a repeat complainant; supervisor review requested.
+Escalated to Billing Supervisor on 2026-08-07.
+Current Status: Escalated
+
+=====
+### complaint_003.txt
+Customer Feedback / Complaint Record
+Record No: CC-10245
+Date: 2026-08-09
+
+Name: Aisha Khan
+Email: aisha.khan@example.org
+Phone: not provided
+
+Product/Service: Home delivery - Order #OD-55719 (Office chair, Model ErgoFlex)
+
+Description:
+My order was scheduled for delivery on 04 Aug 2026 but has not arrived.
+The tracking page shows "Out for delivery" for five days. I have called the
+courier twice without any update.
+
+Resolution Provided:
+None yet. Logistics team has raised a trace request with the courier partner.
+
+Escalation:
+Not escalated at this time.
+
+Supporting Documents:
+None attached.
+
+Status: In Progress
+
+=====
+### complaint_004.docx
+CUSTOMER COMPLAINT REPORT
+
+Case Reference: CC-10252
+Date Logged: 2026-08-11
+
+Customer Details
+Name: Daniel Okafor
+Email: daniel.okafor@example.com
+Phone: +44 20 7946 0958
+
+Product: AquaPure Water Purifier Model AP-500
+
+Complaint Summary
+The purifier started leaking from the base within 10 days of installation.
+Water has damaged the kitchen cabinet below. The customer requests a
+replacement unit and compensation for the cabinet damage.
+
+Details
+- Installed on 30 July 2026 by company technician
+- Leak observed on 09 Aug 2026
+- Photos of the leak and damaged cabinet attached
+
+Resolution Provided
+Technician visit scheduled for 13 Aug 2026 to inspect the unit.
+Compensation request forwarded to the claims department.
+
+Escalation Information
+Escalated to Claims Department due to property damage claim.
+
+Case Status: Escalated
+
+=====
+### complaint_005.txt
+Service Request / General Enquiry
+Ref: SR-20877
+Date: 2026-08-14
+
+Customer Name: Elena Rossi
+Email: elena.rossi@example.it
+Phone: +39 06 1234 5678
+
+Service: FitLife Gym Membership - Annual Plan
+
+Message:
+Hi, I would like to know whether I can pause my annual membership for two
+months (September and October) as I will be travelling abroad. I am happy
+with the service and just want to understand the process and any fees.
+
+Response Provided:
+Front desk informed the customer that membership can be paused for up to
+3 months for a fee of EUR 10 per month. Pause form emailed to customer.
+
+Escalation: Not required
+Attachments: None
+
+Status: Closed

@@ -1,0 +1,13 @@
+{
+  "customer_name": "Daniel Okafor",
+  "email": "daniel.okafor@example.com",
+  "phone_number": "+44 20 7946 0958",
+  "product_or_service": "AquaPure Water Purifier Model AP-500",
+  "complaint_category": "Product Defect",
+  "issue_description": "The purifier started leaking from the base within 10 days of installation, damaging the kitchen cabinet below.",
+  "resolution_provided": "Technician visit scheduled for 13 Aug 2026 to inspect the unit. Compensation request forwarded to the claims department.",
+  "is_complaint": "Yes",
+  "escalation_required": "Yes",
+  "supporting_document_available": "Yes",
+  "case_status": "Escalated"
+}

@@ -1,0 +1,13 @@
+{
+  "customer_name": "Priya Sharma",
+  "email": "priya.sharma@example.com",
+  "phone_number": "+91-98450-11223",
+  "product_or_service": "SmartHome Wi-Fi Router X200",
+  "complaint_category": "Technical Issue",
+  "issue_description": "Router disconnects every 20-30 minutes and requires manual restart, causing disruption to meetings.",
+  "resolution_provided": "Support agent Rahul guided the customer to update firmware to 2.1.6 on 03 Aug 2026. The customer confirmed the router has been stable for 48 hours.",
+  "is_complaint": "Yes",
+  "escalation_required": "No",
+  "supporting_document_available": "Yes",
+  "case_status": "Resolved"
+}

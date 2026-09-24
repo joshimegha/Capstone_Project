@@ -1,0 +1,16 @@
+INTERNAL CASE SUMMARY - complaint_005.txt
+==================================================
+Case Overview:
+Elena Rossi inquired about pausing her FitLife Gym Membership while traveling abroad.
+
+Key Issue:
+Customer wants to pause annual membership for two months and inquired about the process and fees.
+
+Action Taken:
+Customer was informed that the membership can be paused for up to 3 months for a fee of EUR 10 per month, and a pause form was emailed to her.
+
+Current Status:
+Case is closed.
+
+Recommended Next Action:
+No further action required as the case is resolved.

@@ -1,0 +1,16 @@
+INTERNAL CASE SUMMARY - complaint_001.txt
+==================================================
+Case Overview:
+Customer Priya Sharma reported frequent disconnections of her SmartHome Wi-Fi Router X200, requiring manual restarts.
+
+Key Issue:
+Router disconnects every 20-30 minutes, disrupting work meetings.
+
+Action Taken:
+Customer was guided to update the router firmware from version 2.1.4 to 2.1.6 on 03 Aug 2026, and the issue has been resolved for 48 hours since the update.
+
+Current Status:
+Case status is resolved; no further action required.
+
+Recommended Next Action:
+Monitor for any further issues and ensure customer satisfaction.

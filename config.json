@@ -1,0 +1,17 @@
+{
+    "provider": "openai",
+    "gemini": {
+        "model": "models/gemini-2.5-flash",
+        "temperature": 0.2,
+        "max_token": 2048
+    },
+    "openai": {
+        "model": "gpt-4o-mini",
+        "temperature": 0.2,
+        "max_token": 2048
+    },
+    "data_dir": "data",
+    "output_dir": "output",
+    "supported_extensions": [".txt", ".pdf", ".docx"],
+    "max_workers": 3
+}

@@ -1,0 +1,23 @@
+Service Request / General Enquiry
+Ref: SR-20877
+Date: 2026-08-14
+
+Customer Name: Elena Rossi
+Email: elena.rossi@example.it
+Phone: +39 06 1234 5678
+
+Service: FitLife Gym Membership - Annual Plan
+
+Message:
+Hi, I would like to know whether I can pause my annual membership for two
+months (September and October) as I will be travelling abroad. I am happy
+with the service and just want to understand the process and any fees.
+
+Response Provided:
+Front desk informed the customer that membership can be paused for up to
+3 months for a fee of EUR 10 per month. Pause form emailed to customer.
+
+Escalation: Not required
+Attachments: None
+
+Status: Closed

@@ -1,0 +1,13 @@
+{
+  "customer_name": "Michael Turner",
+  "email": "m.turner@example.net",
+  "phone_number": "(415) 555-0142",
+  "product_or_service": "StreamPlus Premium subscription",
+  "complaint_category": "Billing",
+  "issue_description": "Charged twice for monthly subscription",
+  "resolution_provided": "Refund not yet processed.",
+  "is_complaint": "Yes",
+  "escalation_required": "Yes",
+  "supporting_document_available": "Yes",
+  "case_status": "Escalated"
+}
